@@ -9,7 +9,7 @@ from google_play_scraper import Sort, reviews_all
 
 
 us_reviews = reviews_all(
-    'io.chingari.app',
+    'com.keepertax',
     sleep_milliseconds=0, # defaults to 0
     lang='en', # defaults to 'en'
     country='us', # defaults to 'us'
